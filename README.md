@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Umuzi - This is my first personal website</h1>
 
-<!--
-**Mabizza/mabizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img 
+alt="My first personal website" 
+src="https://github.com/Mabizza/mabizza/blob/main/img/resume_icon.png"
+/>
+</div>
 
-Here are some ideas to get you started:
+## William Paulsen CV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Demo
+Check demo here: [William Paulsen CV](https://mabizza.github.io/mabizza)
+
+Thanks:
+
+- **Raleway** - set of free fonts thanks to Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini
+
+- **Freepik** - title icon made by [Freepick](http://www.freepik.com), licensed: CC 3.0
